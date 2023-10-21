@@ -1,5 +1,3 @@
-import img from "../images/CybroSphere.png";
-
 export const Bio = {
   name: "Edry Rezal",
   roles: ["Front-End DEveloper", "Software Developer", "Student"],
